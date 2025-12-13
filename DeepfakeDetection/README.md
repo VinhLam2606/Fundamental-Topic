@@ -1,4 +1,4 @@
-# Deep fake detection Django Application
+# Deep fake detection
 ## Requirements:
 
 **Note :** Nvidia GPU is mandatory to run the application.
